@@ -7,7 +7,7 @@ Repository created based on a question posted on Python Argentina Telegram's cha
 Approach is minimalism and security, so I have decided to go with [Alpine](https://hub.docker.com/_/alpine).
 
 ### About the API
-For now, following the minimalism and doing my best to focus on Security by Design, I will go for Flask.
+For now, following the minimalism and doing my best to focus on Security by Design, I will go for Flask. Note: I might need some more guidance / help in coding this part.
 
 ## Kudos and more
 
